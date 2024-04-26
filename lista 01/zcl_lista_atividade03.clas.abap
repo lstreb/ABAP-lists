@@ -1,0 +1,21 @@
+CLASS zcl_lista_atividade03 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES if_oo_adt_classrun .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_lista_atividade03 IMPLEMENTATION.
+  METHOD if_oo_adt_classrun~main.
+
+    TYPES type_num TYPE p LENGTH 7 DECIMALS 0.
+
+  ENDMETHOD.
+ENDCLASS.

@@ -1,0 +1,20 @@
+CLASS zcl_lista_atividade12_ DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES if_oo_adt_classrun .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+CLASS zcl_lista_atividade12_ IMPLEMENTATION.
+  METHOD if_oo_adt_classrun~main.
+
+    TYPES my_type TYPE STANDARD TABLE OF sflight.
+
+  ENDMETHOD.
+ENDCLASS.
