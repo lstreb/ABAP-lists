@@ -8,7 +8,7 @@ The first set of activities in this repository focuses on introductory exercises
 - Exploring fundamental concepts in ABAP development.
 
 ## Classes and Unit Tests
-#### The second set of activities in this repository contains exercises related to classes and unit testing in ABAP. In this section, I learned about:
+The second set of activities in this repository contains exercises related to classes and unit testing in ABAP. In this section, I learned about:
 - Writing unit tests to ensure that the code is running as expected.
 - Understanding object-oriented principles in the context of ABAP programming.
 
