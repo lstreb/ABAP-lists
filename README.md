@@ -11,3 +11,9 @@ The first set of activities in this repository focuses on introductory exercises
 The second set of activities in this repository contains exercises related to classes and unit testing in ABAP. In this section, I learned about:
 - Writing unit tests to ensure that the code is running as expected.
 - Understanding object-oriented principles in the context of ABAP programming.
+
+## Dependencies and Database Access
+This third set of exercises will focus on database table access through ABAP code and testing classes that have dependencies with other classes or database tables. Each exercise should be implemented using classes, following the principles of Test-Driven Development (TDD). I learned about the following topics:
+- Practice accessing database tables using ABAP code.
+- Test classes with dependencies.
+- Mock dependencies, such as database access or other classes, in unit tests.
