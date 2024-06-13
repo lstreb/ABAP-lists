@@ -17,3 +17,11 @@ This third set of exercises will focus on database table access through ABAP cod
 - Practice accessing database tables using ABAP code.
 - Test classes with dependencies.
 - Mock dependencies, such as database access or other classes, in unit tests.
+
+## User Story - Contract Creation Simplified
+The goal of this project is to demonstrate a basic model for contract creation, focusing on key fields and business rules.
+- Practiced creating and accessing database tables using ABAP code.
+- Structured data in header and item tables.
+- Followed best practices in ABAP coding standards.
+- Improved skills in debugging ABAP programs.
+- Tested ABAP programs using SAP's built-in testing tools.
